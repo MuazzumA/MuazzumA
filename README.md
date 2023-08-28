@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-CS graduate passionate about Machine Learning.
+CS graduate passionate about Machine Learning and AI.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [mmakhtar210@gmail.com](mailto:mmakhtar210@gmail.com)
