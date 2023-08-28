@@ -7,6 +7,7 @@ Developer
 CS graduate passionate about Machine Learning and AI.
 
 * 🌍  I'm based in New York City
+* 🎓 Education: Bachelor's degree 
 * ✉️  You can contact me at [mmakhtar210@gmail.com](mailto:mmakhtar210@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Im Batman
