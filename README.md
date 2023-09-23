@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muazzum Akhtar
 ======================================================================================================================================
 
-Developer
----------
+Developer, Data Scientist 
+--------------------------
 
-CS graduate passionate about Machine Learning and AI.
+CS graduate passionate about Machine Learning and AI. Aiming to go back to school for Data Science!
 
 * 🌍  I'm based in New York City
-* 🎓 Education: Bachelor's degree 
+* 🎓 Education: Bachelor's degree Computer Science
 * ✉️  You can contact me at [mmakhtar210@gmail.com](mailto:mmakhtar210@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Im Batman
